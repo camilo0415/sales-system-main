@@ -1,0 +1,26 @@
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csprojAssemblyReference.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfoInputs.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfo.cs
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.exe
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.deps.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.dev.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\Ejercicio ventas\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.genruntimeconfig.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.exe
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.deps.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.dev.json
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csprojAssemblyReference.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfoInputs.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfo.cs
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Camilo Romàn\Desktop\Todo\Curso Visual Studio\sales-system-main\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.genruntimeconfig.cache
